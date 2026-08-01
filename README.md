@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Oscar Makgai 👋
 
-<!--
-**OscarM121/OscarM121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An experienced **Infrastructure & NOC Engineer** transitioning into **Cloud Operations & Cybersecurity**. I focus on driving system uptime, backup reliability, and rapid incident response.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 **Current Focus:** Managing enterprise virtualization, business-critical storage, and DR.
+- 🌱 **Upskilling:** Pivoting into security-aware infrastructure and cloud operations.
+- 📜 **Credentials:** Fortinet Certified Fundamentals | ISC2 Candidate 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Tech Stack
+- **Virtualization:** VMware vSphere/ESXi, Hyper-V, Lenovo XClarity
+- **Backup & DR:** Veeam Backup & Replication, Veeam ONE
+- **Storage & Monitoring:** IBM Storage Insights, Dell OpenManage Enterprise
+- **Network & Security:** SonicWall firewalls, VPN review, Security Log Analysis
+
+### 📫 Connect with me
+[](https://linkedin.com/oscar-makgai-8497b9155)
